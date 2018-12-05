@@ -31,7 +31,7 @@ The current initiatives are:
 The Business Committee can set up workgroups for topics that need a wider range of expertise.
 
 The current workgroups are:
-*	Data Privacy & Compliance
+*	[Data Privacy & Compliance](https://github.com/openintegrationhub/BusinessCommittee/tree/Contribution-Guide/Data%20Privacy%20and%20Compliance)
 
 
 ## Contribution
