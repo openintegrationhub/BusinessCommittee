@@ -92,4 +92,4 @@ Contact: info@cloudecosystem.org
 
 ## Roles within the Community
 
-There are several roles you can take on within the community, starting by being a Contributor. If you want to learn more, check out the [Community Guide](Link) 
+There are several roles you can take on within the community, starting by being a Contributor. If you want to learn more, check out the [Community Guide](https://github.com/openintegrationhub/BusinessCommittee/blob/Contribution-Guide/Community_Guide.md) 
