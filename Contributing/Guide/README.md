@@ -68,12 +68,13 @@ The project is build by many enthusiasts from various backgrounds, countries and
 
 ## Committees
 
-Committees are groups of elected Committers, responsible for the operative business and defining, prioritizing and executing all tasks necessary to achieve the project's goals and to ensure a steady development. Committees set up workgroups for specific topics and function as escalation layer for problems within these workgroup. For more information, please see the Open [Integration Hub Charter](Link). 
+Committees are groups of elected Committers, responsible for the operative business and defining, prioritizing and executing all tasks necessary to achieve the project's goals and to ensure a steady development. Committees set up workgroups for specific topics and function as escalation layer for problems within these workgroup. For more information, please see the Open Integration Hub Charter. 
 
 We currently have two Committees, which are a good entry point for you, if are looking for something to work on.
 
-Technology Committee responsible for the development of the framework, it's releases and management of the process via the product backlog. Learn more:[Technology Committee](link).
-Business Committee responsible for all community-facing topics, as well as topics relevant for commercial use of the framework. Learn more:[Business Committee](link).
+Technology Committee responsible for the development of the framework, it's releases and management of the process via the product backlog.
+
+Business Committee responsible for all community-facing topics, as well as topics relevant for commercial use of the framework.
 
 ## Workgroups
 
@@ -84,8 +85,9 @@ Business Committee responsible for all community-facing topics, as well as topic
 
 # Community
 ## Get involved
-Slack
+
 [Meetups](https://www.meetup.com/de-DE/Open-Integration-Hub-Community/)
+
 Contact: info@cloudecosystem.org
 
 ## Roles within the Community
