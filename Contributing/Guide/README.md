@@ -5,7 +5,7 @@
 
 This document aggregates all information on how to contribute to the project.
 
-For technical specifications and guidelines like naming conventions, styleguides, definitions of done or operations, please refer to the corresponding workgroup and repository or browse the developer's [guideline folder](/https://github.com/openintegrationhub/BusinessCommittee/tree/Contribution-Guide/Contributing/Development).
+For technical specifications and guidelines like naming conventions, styleguides, definitions of done or operations, please refer to the corresponding workgroup and repository or browse the developer's [guideline folder](https://github.com/openintegrationhub/BusinessCommittee/tree/Contribution-Guide/Contributing/Development).
 
 
 # Table of Content
@@ -30,7 +30,7 @@ Welcome to the Open Integration Hub Community!
 
 It is important for you as a Contributor as well as the project and all it's users, that we are clear on who owns the code. All contributions have to be made according to the License Agreement.
 
-Before you can **contribute code**, you will need to sign the [Contributor License Agreement](/CLA.md).
+Before you can **contribute code**, you will need to sign the [Contributor License Agreement](https://github.com/openintegrationhub/BusinessCommittee/blob/Contribution-Guide/Contributing/Guide/CLA.md).
 
 ## Code of Conduct
 
