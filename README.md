@@ -22,8 +22,16 @@ Initiatives bundle activities around important topics that are driven by the mem
 
 The current initiatives are:
 * Evangelism
+
+All activities around growing and connecting the community. Events, Marketing, PR for the Open Integration Hub Project.
+
 * Website Optimization
+
+All activities around maintaining the website, newsletter and other online channels.
+
 * Enablement Program
+
+All acitivities around support for developers, trainings and documentation.
 
 
 ## Workgroups
