@@ -5,7 +5,7 @@
 
 This document aggregates all information on how to contribute to the project.
 
-For technical specifications and guidelines like naming conventions, styleguides, definitions of done or operations, please refer to the corresponding workgroup and repository or browse the developer's [guideline folder](/linkeinfügen).
+For technical specifications and guidelines like naming conventions, styleguides, definitions of done or operations, please refer to the corresponding workgroup and repository or browse the developer's [guideline folder](/https://github.com/openintegrationhub/BusinessCommittee/tree/Contribution-Guide/Contributing/Development).
 
 
 # Table of Content
@@ -72,8 +72,8 @@ Committees are groups of elected Committers, responsible for the operative busin
 
 We currently have two Committees, which are a good entry point for you, if are looking for something to work on.
 
-Technology Committee responsible for XXXX. Learn more:[Technology Committee](link).
-Business Committee responsible for xxxx. Learn more:[Business Committee](link).
+Technology Committee responsible for the development of the framework, it's releases and management of the process via the product backlog. Learn more:[Technology Committee](link).
+Business Committee responsible for all community-facing topics, as well as topics relevant for commercial use of the framework. Learn more:[Business Committee](link).
 
 ## Workgroups
 
@@ -85,11 +85,9 @@ Business Committee responsible for xxxx. Learn more:[Business Committee](link).
 # Community
 ## Get involved
 Slack
-Meetups
-Contact
+[Meetups](https://www.meetup.com/de-DE/Open-Integration-Hub-Community/)
+Contact: info@cloudecosystem.org
 
 ## Roles within the Community
 
 There are several roles you can take on within the community, starting by being a Contributor. If you want to learn more, check out the [Community Guide](Link) 
-
-## Open Integration Hub Charta
