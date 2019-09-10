@@ -24,13 +24,22 @@ Welcome to the Open Integration Hub Community!
     -   [Committees](#committees)
     -   [Workgroups](#workgroups)
 
-    
+
 # Before you get started
 ## Sign the Contributor License Agreement
 
 It is important for you as a Contributor as well as the project and all it's users, that we are clear on who owns the code. All contributions have to be made according to the License Agreement.
 
-Before you can **contribute code**, you will need to sign the [Contributor License Agreement](https://github.com/openintegrationhub/BusinessCommittee/blob/Contribution-Guide/Contributing/Guide/CLA.md).
+Before you can **contribute code**, you will need to sign the **Contributor License Agreement**.
+
+The [Cloud Ecosystem](https://www.cloudecosystem.org) defines
+the legal status of the contributed code in two different types of _Contributor License Agreements_
+(CLAs), [individual contributors](https://github.com/openintegrationhub/BusinessCommittee/blob/master/Contributing/Guide/Contributor%20License%20Agreement%20INDIVIDUAL.pdf) and [companies](https://github.com/openintegrationhub/BusinessCommittee/blob/master/Contributing/Guide/Contributor%20License%20Agreement%20COMPANY.pdf).
+
+The Open Integration Hub Project can only accept original source code from CLA signatories.
+
+It is important to read and understand this legal agreement.
+
 
 ## Code of Conduct
 
@@ -62,13 +71,13 @@ For any issue (suggestion, bug, fix, etc.) there are fundamentally two ways an i
 
 # Where to contribute
 
-## Understanding the structure 
+## Understanding the structure
 
-The project is build by many enthusiasts from various backgrounds, countries and skillsets. To bring all of us together and work effectively, organization and structure is needed. To know where to get involved best, please take the time to understand how we work. 
+The project is build by many enthusiasts from various backgrounds, countries and skillsets. To bring all of us together and work effectively, organization and structure is needed. To know where to get involved best, please take the time to understand how we work.
 
 ## Committees
 
-Committees are groups of elected Committers, responsible for the operative business and defining, prioritizing and executing all tasks necessary to achieve the project's goals and to ensure a steady development. Committees set up workgroups for specific topics and function as escalation layer for problems within these workgroup. For more information, please see the Open Integration Hub Charter. 
+Committees are groups of elected Committers, responsible for the operative business and defining, prioritizing and executing all tasks necessary to achieve the project's goals and to ensure a steady development. Committees set up workgroups for specific topics and function as escalation layer for problems within these workgroup. For more information, please see the Open Integration Hub Charter.
 
 We currently have two Committees, which are a good entry point for you, if are looking for something to work on.
 
@@ -92,4 +101,4 @@ Contact: info@cloudecosystem.org
 
 ## Roles within the Community
 
-There are several roles you can take on within the community, starting by being a Contributor. If you want to learn more, check out the [Community Guide](https://github.com/openintegrationhub/BusinessCommittee/blob/Contribution-Guide/Community_Guide.md) 
+There are several roles you can take on within the community, starting by being a Contributor. If you want to learn more, check out the [Community Guide](https://github.com/openintegrationhub/BusinessCommittee/blob/Contribution-Guide/Community_Guide.md)
