@@ -60,7 +60,7 @@ We follow the general GitHub workflow, if you are not familiar with working with
 6. Assign a descriptive label to the pull request
 7. Click on _"create pull request"_
 
-If you don't know whom to assign, choose: [@philecs](https://github.com/philecs)
+If you don't know whom to assign, choose: [@RobinBrinkmann](https://github.com/RobinBrinkmann)
 
 ## Issues
 
