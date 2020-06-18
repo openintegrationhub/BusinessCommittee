@@ -38,9 +38,6 @@ All acitivities around support for developers, trainings and documentation.
 
 The Business Committee can set up workgroups for topics that need a wider range of expertise.
 
-The current workgroups are:
-*	[Data Privacy & Compliance](https://github.com/openintegrationhub/BusinessCommittee/tree/Contribution-Guide/Data%20Privacy%20and%20Compliance)
-
 
 ## Contribution
 The committee members are elected committers as described in the Open Integration Hub Charter. 
