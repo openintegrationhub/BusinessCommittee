@@ -95,8 +95,6 @@ Business Committee responsible for all community-facing topics, as well as topic
 # Community
 ## Get involved
 
-[Meetups](https://www.meetup.com/de-DE/Open-Integration-Hub-Community/)
-
 Contact: info@cloudecosystem.org
 
 ## Roles within the Community
