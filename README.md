@@ -50,12 +50,3 @@ To see how members of the community are expected to behave, please read the [cod
 
 ### Contact
 When looking for further information or support, please contact: robin.brinkmann@cloudecosystem.org.
-
-
-## Committee Member
-
-|Member Name |GitHub Alias|Company| Role |
-| --- | --- | --- | --- |
-| Olga Annenko|[OAnnenko](https://github.com/OAnnenko)|[elastic.io](https://www.elastic.io//)| Member  |
-| Daniel Bollien|[dbollien](https://github.com/dbollien)|[basaas](https://www.basaas.com//)| Member  |
-| Robin Brinkmann |[RobinBrinkmann](https://github.com/RobinBrinkmann)|[Cloud Ecosystem](https://www.cloudecosystem.org/) | Committee Manager   |
