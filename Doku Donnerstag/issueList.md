@@ -36,6 +36,7 @@
 - AppDirectory missing
 - logging service (has been removed form monorepo)
 - Ferryman docs missing (not a "service", but should be listed there?)
+- Information for service deployment requirements per scenario above (i.e. <H&S: required> <core: optional>)
 - Still up-to-date? / Need to be checked:
   - IAM
   - Secret Service
