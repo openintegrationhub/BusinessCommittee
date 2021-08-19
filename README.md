@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="https://github.com/openintegrationhub/BusinessCommittee/blob/master/Assets/medium-oih-einzeilig-zentriert.jpg" alt="Sublime's custom image" width="400"/>
+  <img src="https://github.com/openintegrationhub/openintegrationhub/blob/master/Assets/medium-oih-einzeilig-zentriert.jpg" alt="Open Integration Hub (OIH)" width="400"/>
 </p>
 
-The revolution in data synchronization — the Open Integration Hub enables simple data synchronization between any software applications and thus accelerates digitalisation
+Open source framework for easy data synchronization between business applications.
 
 Visit the official [Open Integration Hub homepage](https://www.openintegrationhub.org/)
 
-# Business Committee
+## Join the Community
 
+Do you have questions, ideas, feedback or just want to chat about integration? Please join our growing developer community on [Slack](https://join.slack.com/t/openintegrationhub/shared_invite/zt-mba97vn9-xus3ZbVxnMr2oQwGegIk5Q)!
+
+# Business Committee
 
 ## Introduction
 

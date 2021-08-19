@@ -15,7 +15,6 @@ Visit the official [Open Integration Hub homepage](https://www.openintegrationhu
 - [Table of Content](#table-of-content)
 - [Introduction](#introduction)
 - [Contribution](#contribution)
-- [Workgroup](#workgroup)
 	
 <!-- /TOC -->
 
@@ -42,24 +41,3 @@ To see how we would like to work together, please read the [code of conduct](COD
 
 ## Contact
 When looking for further information or support, please contact: robin.brinkmann@cloudecosystem.org.
-
-## Workgroup
-### Information
-- Each workgroup has at least one status call every two weeks
-- Every committer must attend the status call
-- The governance model defines the workgroup members' roles into managers, committers or contributors
-
-### Member
-
-|Member Name |GitHub Alias|Company| Role |
-| --- | --- | --- | --- |
-| Robin Brinkmann |[RobinBrinkmann](https://github.com/RobinBrinkmann)|[Cloud Ecosystem](http://www.cloudecosystem.org/) | **Manager**   |
-| Jürgen Schüssler |[jschuesslerhh](https://github.com/jschuesslerhh)|[Wice](http://wice.de)| Committer   |
-| Falk Voigt|[falkvoigt](https://github.com/falkvoigt)|[Basaas](https://www.basaas.com/)| Committer   |
-| Folker Scholz|[FolkerScholz](https://github.com/FolkerScholz)|[FSU](http://www.fsu-berlin.de/)| Committer  |
-| Thomas Niessen| -|[Trusted Cloud](https://www.trusted-cloud.de/)| Committer  |
-| Frank Türling|[franktuerling](https://github.com/franktuerling)|[Cloud Ecosystem](http://www.cloudecosystem.org/)| Contributor  |
-
-
-## Wording
-Within the project different terms and abbreviations are frequently used. Find an overview in the [glossary](https://github.com/openintegrationhub/Connectors/wiki/Glossary) and our [list of abbrevations](https://github.com/openintegrationhub/Connectors/wiki/Abbreviations).
