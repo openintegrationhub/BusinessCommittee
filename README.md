@@ -52,4 +52,4 @@ However, anyone is welcome to contribute and actively participate in initiatives
 To see how members of the community are expected to behave, please read the [code of conduct](CODE_OF_CONDUCT.md). We apply the code of conduct defined by the Contributor Covenant, which is used across many open source projects, such as [NodeJS](https://github.com/nodejs/node), [Atom](https://github.com/atom/atom) and [Kubernetes](https://github.com/kubernetes/kubernetes).
 
 ### Contact
-When looking for further information or support, please contact: robin.brinkmann@cloudecosystem.org.
+When looking for further information or support, please contact: info@cloudecosystem.org.
